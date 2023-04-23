@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757996359610",
+    "project_id": "logindemo-f18fa",
+    "storage_bucket": "logindemo-f18fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757996359610:android:fd9863818ccd61280ad783",
+        "android_client_info": {
+          "package_name": "com.example.fl_logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757996359610-digp91d3tnnf0tjvhq8va6spk5j03pf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp1X_ow07mMOJNA50Fxlp2qNGT-hlagx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757996359610-digp91d3tnnf0tjvhq8va6spk5j03pf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
